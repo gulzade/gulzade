@@ -26,7 +26,7 @@
 
 <h2>👀 Stats</h2>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gulzade&show_icons=true&include_all_commits=true&theme=blue-black&count_private=true" alt="github stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gulzade&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 
 
