@@ -6,7 +6,7 @@
 <h3 align="center">An iOS Developer from Turkey</h3>
 <br/>
 
-- 💻 I'm a **Computer Engineer** from Turkey. 
+- 💻 I'm a **Computer Engineer** in Turkey. 
 - 🌱 I’m currently learning **Swift**.
 - 😀 Thanks for **checking my profile!**
   
