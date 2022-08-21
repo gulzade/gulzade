@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 
 
-<h3 align="center">A iOS Developer from Turkey</h3>
+<h3 align="center">An iOS Developer from Turkey</h3>
 <br/>
 
 - 💻 I'm a **Computer Engineer** from Turkey. 
